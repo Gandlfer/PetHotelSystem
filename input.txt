@@ -1,0 +1,5 @@
+4
+D;A079;Spaniel;Benji;6;25
+C;X0123;Siamese;Simba;3;allergic
+C;B0125;Mixed;Bella;3;notAllergic
+D;B083;Mastiff;Thor;9;45
